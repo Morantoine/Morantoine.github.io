@@ -46,11 +46,11 @@ header:
 footer:
   copyright:
     notice: "© {year} Antoine Moran (I don't really know what to put here)"
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    # license:
+    # enable: false
+    # allow_derivatives: false
+    # share_alike: true
+    # allow_commercial: false
 
 # Localization
 
